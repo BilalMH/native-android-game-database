@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "The Game Database"
 include ':app'
+include ':mobileapi'
